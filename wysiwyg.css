@@ -1,0 +1,14 @@
+img{
+	width: 300px;
+	height: 300px;
+}
+
+
+.dotborder {
+	border: dotted 10px red;
+}
+
+body {
+	width: 75%;
+	display: block;
+}
